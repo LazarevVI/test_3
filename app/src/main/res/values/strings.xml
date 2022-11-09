@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">test_3</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="year_of_birth">Year of birth</string>
+    <string name="add_visitor">Add visitor</string>
+    <string name="display_visitors">Display visitors</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="visitor_list">Visitor list</string>
+    <string name="new_visitor">New visitor</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="display_mode">Display mode</string>
+    <string name="name_surname">Name Surname</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+</resources>
